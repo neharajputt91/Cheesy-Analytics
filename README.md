@@ -30,7 +30,7 @@ This repository contains the dataset and analysis of pizza sales from a pizzeria
 - **Top**: Classic Deluxe (2,453), BBQ Chicken (2,432), etc.
 - **Bottom**: Brie Carre (490), Mediterranean (934), etc.
 
-For full details, see the analysis in the [main document](#) or run the provided code.
+For full details, see the analysis in  the provided code.
 
 ### How to Use
 1. Download the Excel file.
